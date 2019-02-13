@@ -328,7 +328,7 @@ button[disabled]{
   color: #666666;
 }
   
-                </style>
+  </style>
                 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
                 <script src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
@@ -2554,7 +2554,7 @@ $_SESSION['co2']="";
               <input class="button" type="button" id="next"name="next" onclick="window.location.replace('next.php')" value="Next" />
        
 </html>
-
+<!--try to try :)-->
 
 <?php
 require ("connection.php");
